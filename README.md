@@ -1,13 +1,6 @@
-# Professional Evidence Portfolio · LION v9
+# Professional Evidence Portfolio · LION Screenshot v10
 
-This package adds the LION Market Observatory v0.9.3 as a live embedded system, while preserving:
-
-- Three GitHub Pages project previews
-- Treasury Team of One and Blackridge Mortgage Regime Lab Streamlit embeds
-- Two embedded research videos and paper links
-- Embedded CSS in `index.html`
+This version replaces the refused LION iframe with the supplied screenshot while preserving the launch link to the connected system. Everything else remains unchanged: three GitHub Pages previews, two Streamlit embeds, two research videos, and research links.
 
 ## Deploy
-Upload `index.html`, `.nojekyll`, and `assets/profile.jpg` to the active GitHub Pages source, replacing the existing versions. Verify the footer reads `LION v9`.
-
-The LION preview requires the public service to remain online and permit iframe embedding. The full-system launch button remains available as a fallback.
+Upload `index.html`, `.nojekyll`, and the complete `assets` folder to the active GitHub Pages source. The assets folder must contain both `profile.jpg` and `lion-market-observatory-v093.png`. Verify the footer reads `LION Screenshot v10`.
