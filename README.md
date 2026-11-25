@@ -1,6 +1,5 @@
-# Zachary A. Smith Professional Portfolio · Production v13
+# Zachary A. Smith Portfolio · Complete Production v14
 
-Adds the Treasury Agent Evaluation Lab using the supplied executive-dashboard screenshot. The screenshot and launch button open the public lab at the exact provided URL.
+Restores every Production v12 section and adds the Treasury Agent Evaluation Lab.
 
-## Deploy
-Upload `index.html`, `.nojekyll`, and the complete `assets` folder to the active GitHub Pages source. Confirm the footer reads `Production v13`.
+Deploy `index.html`, `.nojekyll`, and the complete `assets` folder to the GitHub Pages publishing source.
