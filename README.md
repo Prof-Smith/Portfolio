@@ -1,5 +1,5 @@
-# Zachary A. Smith Portfolio · Complete Production v15
+# Zachary A. Smith Portfolio · Complete Production v16
 
-Restores the complete portfolio, includes the Treasury Agent Evaluation Lab, and packages the supplied LION Market Observatory visual locally.
+Corrects the LION section by replacing the screenshot of the broken portfolio card with the actual supplied LION Market Observatory interface. All other Production v15 content remains unchanged.
 
-Deploy `index.html`, `.nojekyll`, and the complete `assets` folder. Confirm the footer reads `Complete Production v15`.
+Deploy `index.html`, `.nojekyll`, and the complete `assets` folder. Confirm the footer reads `Complete Production v16`.
